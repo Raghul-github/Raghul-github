@@ -3,6 +3,10 @@
 
 I am currently working as a Data Science Intern at [**iNeuron**](https://ineuron.ai/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
 
+### Contact me -
+[![Linkedin Badge](https://img.shields.io/badge/-RaghulB-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghulb07/)](https://www.linkedin.com/in/raghulb07/)
+[![Gmail Badge](https://img.shields.io/badge/-RaghulB-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raghulb07@gmail.com)](mailto:raghulb07@gmail.com)
+
 ### Things I'm good at :fire:
 
 **Domain:** Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization.
@@ -21,9 +25,6 @@ I am currently working as a Data Science Intern at [**iNeuron**](https://ineuron
 * Computer vision 
 * Natural Language Processing 
 * Robotics
-
-### Contact me -
-[<img target="_blank" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/raghulb07/)
 
 <!--
 **Raghul-github/Raghul-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
