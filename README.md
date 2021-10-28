@@ -9,13 +9,13 @@ I am currently working as a Data Science Intern at [**iNeuron**](https://ineuron
 
 ### Things I'm good at :fire:
 
-**Domain:** Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization.
+**Domain:** Image Processing, Machine Learning, Deep Learning, Data Science, Data Visualization.
 
-**Languages:**  Python, SQL, HTML, C++.
+**Languages:**  Python, SQL, HTML.
 
 **Framework:** Tensorflow, Pytorch, Keras.
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, OpenCV.
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
 
